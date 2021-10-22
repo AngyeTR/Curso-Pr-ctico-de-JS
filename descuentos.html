@@ -7,7 +7,23 @@
     <title>Descuentos</title>
 </head>
 <body>
-    <h1> PORCENTAJES Y DESCUENTOS</h1>
+    <header>
+        <h1> PORCENTAJES Y DESCUENTOS</h1>
+        <p> Este es el segundo taller</p> 
+    </header>
+    <section>
+        <h2> Calcula el precio a pagar aplicando un descuento</h2>
+        <form>
+            <label for="inputPrice">Escribe el Precio del Producto</label>
+            <input id="inputPrice" type="number">
+            <label for="inputDiscount">Escribe el porcentaje de descuento</label>
+            <input id="inputDiscount" type="number">
+            <button type="button" onclick="discountedPrice()">Calcular el Precio Con descuento</button>
+            <p id="result"></p>
+        </form>
+
+    </section>
+    
     <script src="descuentos.js"></script>
 </body>
 </html>
