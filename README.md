@@ -14,3 +14,10 @@ Repositorio para practicar lo aprendido en Platzi
  - 2. Implementar fórmulas en JS
  - 3. Crear funciones
  - 4. Integras JS y HTML
+
+ ## Taller #3: PROMEDIO, MEDIANA Y MODA
+
+ - 1. Definir fórmulas
+ - 2. Implementar fórmulas en JS
+ - 3. Crear funciones
+ - 4. Integras JS y HTML
